@@ -1,8 +1,10 @@
-step1: npm install tailwindcss @tailwindcss/cli
+step1: TAILWIND CSS.CLI
+npm install tailwindcss @tailwindcss/cli
 
 -------------------------------------------------------------------------------------------------
 
-step2: @import "tailwindcss";
+step2: IMPORT TAILWIND
+@import "tailwindcss";
 -------------------------------------------------------------------------------------------------
 
 step3: run cmd
